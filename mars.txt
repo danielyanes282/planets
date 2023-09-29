@@ -7,5 +7,12 @@ The two moons may be a problem for Wolfman
 Another line about mars! 
 
 Consider venus as a base!!!! 
+<<<<<<< HEAD
 
 test edit
+
+
+
+
+Hello sir 
+>>>>>>> 7628a31388f066a7c6f316e0faef8fa5c7d914cb
